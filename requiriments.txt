@@ -1,0 +1,6 @@
+pandas
+datetime
+plotly.express
+plotly
+streamlit
+warnings
